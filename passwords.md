@@ -16,3 +16,4 @@ bandit11 	IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR		regex for finding base64 texts (grep
 bandit12 	5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu		rot 13 cipher tr '[a-zA-z]' '[n-za-mN-ZA-M]'
 bandit13	8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL		reversing a hexdump and many other decompressions => http://hexjump.blogspot.com/2014/12/bandit-level-12-to-level-13.html
 bandit14	4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e		ssh to server and get password from /etc/bandit_pass/bandit14
+bandit15	BfMYroe26WYalil77FoDi9qh59eK5xNr		echo password | nc localhost 30000
