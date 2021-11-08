@@ -18,13 +18,5 @@ bandit13	8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL		reversing a hexdump and many other de
 bandit14	4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e		ssh to server and get password from /etc/bandit_pass/bandit14
 			4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e  
 
-<<<<<<< HEAD
-
-  
 PicoCtf - g3duuj5eET%kLEV
-=======
-bandit12 	5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu		rot 13 cipher tr '[a-zA-z]' '[n-za-mN-ZA-M]'
-bandit13	8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL		reversing a hexdump and many other decompressions => http://hexjump.blogspot.com/2014/12/bandit-level-12-to-level-13.html
-bandit14	4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e		ssh to server and get password from /etc/bandit_pass/bandit14
-bandit15	BfMYroe26WYalil77FoDi9qh59eK5xNr		echo password | nc localhost 30000
->>>>>>> c8c02aae91186c53df55b8c965419a271da7e83d
+bandit15	BfMYroe26WYalil77FoDi9qh59eK5xNr		echo password | nc localhost 30000  
