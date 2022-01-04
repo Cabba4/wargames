@@ -17,3 +17,9 @@ bandit12 	5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu		rot 13 cipher tr '[a-zA-z]' '[n-za-m
 bandit13	8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL		reversing a hexdump and many other decompressions => http://hexjump.blogspot.com/2014/12/bandit-level-12-to-level-13.html
 bandit14	4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e		ssh to server and get password from /etc/bandit_pass/bandit14
 bandit15	BfMYroe26WYalil77FoDi9qh59eK5xNr		echo password | nc localhost 30000
+bandit16	cluFn7wTiGryunymYOu4RcffSxQluehd		use openssl command => openssl s_client -crlf -connect localhost:30001
+bandit17	id_rsa file from openssl				nmap and then same as b16
+bandit 18	kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd		diff b/w 2 files 
+bandit19 	IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x		chain commands with ssh by putting them in 'quotes' 
+bandit20 	GbKksEFF4yrVs6il55v6gwY5aVje5f0j		run command via setuid
+bandit21 	gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr		set up nc with password from prev level and then run setuid
