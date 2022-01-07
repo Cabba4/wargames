@@ -27,3 +27,6 @@ bandit 18	kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd		diff b/w 2 files
 bandit19 	IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x		chain commands with ssh by putting them in 'quotes' 
 bandit20 	GbKksEFF4yrVs6il55v6gwY5aVje5f0j		run command via setuid
 bandit21 	gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr		set up nc with password from prev level and then run setuid
+bandit22 	Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI		look at cron job find file and see path
+bandit23 	jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n		run cronjob get md5sum 
+bandit24 	UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ		made smol bash script which gets executed and gets password
